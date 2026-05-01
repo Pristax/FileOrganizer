@@ -1,8 +1,7 @@
-# FileOrganizer
+# 📂 File Organizer
 GUI tool for automatic file sorting based on extensions.
 
-# 📂 File Organizer
-
+# 
 A clean, efficient Python-based desktop application designed to declutter your folders instantly. This tool automates the process of sorting messy directories into organized subfolders based on file categories.
 
 ## Features
