@@ -18,8 +18,8 @@ A clean, efficient Python-based desktop application designed to declutter your f
 - **OS & Shutil:** For advanced file system manipulation and movement.
 
 ## Getting Started
-1. Ensure you have **Python 3** installed on your machine.
-2. Download the file.
+1. Ensure you have **Python 3.3.17 installed on your machine.
+2. Download the "file-organizer.py" file.
 3. Open your terminal or command prompt and navigate to the folder containing the file.
 4. Run the application:
    ```bash
