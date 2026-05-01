@@ -10,12 +10,12 @@ A clear and efficient desktop application built in Python, designed for instantl
 - **Safety First:** The script is programmed to ignore subdirectories and only manipulate individual files.
 
 ## Built With
-- **Python** 3.3.17
+- **Python** 3.10.17
 - **Tkinter (ttk):** For the Graphical User Interface.
 - **OS & Shutil:** For advanced file system manipulation and movement.
 
 ## Getting Started
-1. Ensure you have **Python 3.3.17** installed on your machine.
+1. Ensure you have **Python 3.10.17** installed on your machine.
 2. Download the "file-organizer.py" file.
 3. Open your terminal or command prompt and navigate to the folder containing the file.
 4. Run the application:
