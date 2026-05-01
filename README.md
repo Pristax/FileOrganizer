@@ -13,7 +13,7 @@ A clean, efficient Python-based desktop application designed to declutter your f
 - **Safety First:** The script is programmed to ignore subdirectories and only manipulate individual files.
 
 ## Built With
-- **Python 3.3.17
+- **Python** 3.3.17
 - **Tkinter (ttk):** For the Graphical User Interface.
 - **OS & Shutil:** For advanced file system manipulation and movement.
 
