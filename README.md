@@ -1,7 +1,6 @@
 # 📂 File Organizer
-GUI tool for automatic file sorting based on extensions.
- 
-A clean, efficient Python-based desktop application designed to declutter your folders instantly. This tool automates the process of sorting messy directories into organized subfolders based on file categories.
+A graphical user interface tool for automatically sorting files based on their extensions.
+A clear and efficient desktop application built in Python, designed for instantly organizing folders. This tool automates the process of sorting cluttered directories into structured subfolders based on file categories.
 
 ## Features
 - **Automated Sorting:** Automatically categorizes files into specific folders (Images, Documents, Videos, Music, Archives).
@@ -16,7 +15,7 @@ A clean, efficient Python-based desktop application designed to declutter your f
 - **OS & Shutil:** For advanced file system manipulation and movement.
 
 ## Getting Started
-1. Ensure you have **Python 3.3.17 installed on your machine.
+1. Ensure you have **Python 3.3.17** installed on your machine.
 2. Download the "file-organizer.py" file.
 3. Open your terminal or command prompt and navigate to the folder containing the file.
 4. Run the application:
